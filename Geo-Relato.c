@@ -1,3 +1,4 @@
+// Texto teste apenas para aplicar atualizações no github
 #include <stdio.h> // Biblioteca padrão de entrada e saída (para printf, scanf, fgets, etc.)
 #include <string.h> // Biblioteca para manipulação de strings (para strlen, strcpy, strcmp, strcspn)
 #include <time.h>   // Biblioteca para manipulação de tempo e datas (para time_t, struct tm, mktime)
